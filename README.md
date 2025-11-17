@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 # inferencia-bayesiana
 =======
-\# inferencia-bayesiana
-
->>>>>>> 60c63d6 (Adicionando README e atualizando projeto)
+Repositório criado com atividades feitas na disciplina de Inferência Bayesiana, onde estuda-se métodos de inferência quando supõe-se incerteza sobre o(s) parâmetro(s) a ser(em) estimado(s).
