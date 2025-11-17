@@ -5,6 +5,8 @@ Repositório criado com estudos da disciplina de Inferência Bayesiana. Contém 
 
 ### Atividade 1 - Análise do Impacto do Tamanho da Amostra na Inferência Bayesiana
 
+![Priori Conjugada](priori_conjugada.png)
+
 Análise que busca investigar o impacto na estimativa de parâmetros de acordo com o tamanho da amostra observada. Consistiu em escolher um modelo probabilístico e obter prioris não-informativas (Priori de Jeffreys), informativas (conjugada) e hierárquicas. Os tamanhos das amostradas consideradas foram: $n = 5,10,30,100,500$.
 
 #### Modelo Estatístico Escolhido
@@ -22,6 +24,8 @@ As prioris foram:
 - Priori hierárquica: $\alpha$ e $\beta$ seguindo exponenciais com parâmetros tais que $\frac{E(\alpha)}{E(\beta)} = 5$. Isto pois a média da gama é $E(\lambda) = \frac{\alpha}{\beta}$ e queremos que o estimador via Bayes seja o mais próximo possível da média amostral (pois o estimador de $\lambda$ para Poisson é $\bar{X}$)
 
 ### Atividade 2 - ICs, Teste de Hipóteses e Métodos Computacionais para Simulação
+
+![Aproximação da Posteriori via Laplace](metodo1_aprox_laplace.png)
 
 Este projeto busca aplicar métodos computacionais bayesianos para inferir sobre o parâmetro de interesse $\theta$, comparando as abordagens. O modelo observado é
 
