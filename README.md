@@ -5,7 +5,7 @@ Repositório criado com estudos da disciplina de Inferência Bayesiana. Contém 
 
 ### Atividade 1 - Análise do Impacto do Tamanho da Amostra na Inferência Bayesiana
 
-![Priori Conjugada](priori_conjugada.png)
+![Priori Conjugada](priori_conjugada_atv1.png)
 
 Análise que busca investigar o impacto na estimativa de parâmetros de acordo com o tamanho da amostra observada. Consistiu em escolher um modelo probabilístico e obter prioris não-informativas (Priori de Jeffreys), informativas (conjugada) e hierárquicas. Os tamanhos das amostradas consideradas foram: $n = 5,10,30,100,500$.
 
